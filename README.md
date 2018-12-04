@@ -1,6 +1,4 @@
-# fearless
-
-> Fearless.tech website
+# Vue project
 
 ## Build Setup 
 
